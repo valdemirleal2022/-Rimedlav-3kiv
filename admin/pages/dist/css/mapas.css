@@ -1,0 +1,108 @@
+ 
+.mp-container {
+	width:0 auto;
+	margin:10px; 
+	height:450px;
+	box-shadow: 2px 2px 2px rgba(0,0,0,0.2);
+	background:#FFF;
+}
+
+.ss-container{
+	margin-top: 10px;
+    width: 100%;
+	height:450px;
+    position: relative;
+    text-align: left;
+    float: left;
+	overflow: hidden;
+	padding-bottom: 100%;
+	margin-bottom:40px;
+}
+
+
+/* Map CSS */
+ 
+#canvas_holder{
+position: absolute;
+top: 0px;
+left: 0px;
+width:100%;
+
+}
+ 
+#map_canvas{
+width:100%;
+height:100%;
+position: absolute;
+top: 0px;
+left: 0px;
+
+}
+ 
+#map{
+position: relative;
+width: 100%;
+height:100%;
+}
+
+.info{
+width: 250px;
+height: 200px;
+}
+
+
+.info img{
+width: 28px;
+height: 28px;
+}
+
+
+.map{
+    height:200px;
+	width:300px;
+	margin:0 auto;
+	float:right;
+    border:2px solid #999 !important;
+    -webkit-box-shadow: 0 0 5px #999 !important;
+    -moz-box-shadow: 0 0 5px #999 !important;
+    box-shadow: 0 0 5px #999 !important; 
+}
+
+.mapa {
+	padding:5px; 
+	height:335px; 
+	width:750px;
+	margin:5px auto;
+	padding:10px;
+	background:#FFF;
+	border:1px solid #EEE;
+	box-shadow: 1px 1px 1px rgba(0,0,0,0.2);
+	margin-top:50px;
+	margin-bottom:20px;
+}
+
+.mapa h2 {
+	width:770px;
+	font:13px "Terminal Dosis", Arial, Helvetica, sans-serif; 
+	color:#666;
+	margin:5px 0 0 0;
+	padding:2px 5px 4px 4px;
+	margin-left:13px;
+	z-index:99;
+	text-align:center;
+}
+
+<!--/mapa geolocalizacao-->
+#mapholder {
+	width:770px;
+	margin:10px auto;
+	padding:10px;
+	background:#FFF;
+	border:1px solid #DDD;
+	box-shadow: 1px 1px 1px rgba(0,0,0,0.2);
+	text-align:center;
+	margin-bottom:20px;
+}
+
+
+

@@ -1,0 +1,164 @@
+@charset "utf-8";
+/* CSS Document */
+
+.linha_inf {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #000000;
+	font-weight: bold;
+	padding-top: 0px;
+	padding-right: 2px;
+	padding-bottom: 2px;
+	padding-left: 10px;
+}
+.linha_dir {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #000000;
+	border-right-width: 1px;
+	border-right-style: solid;
+	border-right-color: #000000;
+	font-weight: bold;
+	padding-top: 0px;
+	padding-right: 2px;
+	padding-bottom: 2px;
+	padding-left: 10px;
+}
+.titulo_inf {
+	font-size: 8px;
+	line-height: 10px;
+	padding-top: 0px;
+	padding-right: 2px;
+	padding-bottom: 0px;
+	padding-left: 2px;
+}
+.titulo_dir {
+	border-right-width: 1px;
+	border-right-style: solid;
+	border-right-color: #000000;
+	font-size: 8px;
+	line-height: 10px;
+	padding-top: 0px;
+	padding-right: 2px;
+	padding-bottom: 0px;
+	padding-left: 2px;
+}
+.logo_banco {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #000000;
+	border-right-width: 1px;
+	border-right-style: solid;
+	border-right-color: #000000;
+	font-weight: bold;
+	padding-top: 0px;
+	padding-right: 2px;
+	padding-bottom: 2px;
+	padding-left: 0px;
+}
+.logo_fs {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #000000;
+	font-weight: bold;
+	padding-top: 0px;
+	padding-right: 2px;
+	padding-bottom: 2px;
+	padding-left: 0px;
+}
+.num_banco {
+	padding: 2px;
+	font-size: 18px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #000000;
+	border-right-width: 1px;
+	border-right-style: solid;
+	border-right-color: #000000;
+	text-align: center;
+}
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	margin-left:30px;
+	margin-top: 30px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.linha_digitavel {
+	padding: 2px;
+	font-size: 16px;
+	font-weight: normal;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #000000;
+	text-align: right;
+}
+.valor {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #000000;
+	font-weight: bold;
+	padding-top: 0px;
+	padding-right: 15px;
+	padding-bottom: 2px;
+	padding-left: 10px;
+	text-align: right;
+}
+.sacado {
+	font-weight: bold;
+	padding-top: 3px;
+	padding-right: 15px;
+	padding-bottom: 3px;
+	padding-left: 30px;
+}
+.avalista {
+	font-size: 8px;
+	line-height: 10px;
+	padding-top: 0px;
+	padding-right: 2px;
+	padding-bottom: 0px;
+	padding-left: 2px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #000000;
+}
+.autenticacao {
+	font-size: 9px;
+	padding-top: 0px;
+	padding-right: 2px;
+	padding-bottom: 0px;
+	padding-left: 2px;
+}
+.instrucoes {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #000000;
+	padding-top: 0px;
+	padding-right: 2px;
+	padding-bottom: 2px;
+	padding-left: 10px;
+}
+p {
+	padding-top: 1px;
+	padding-right: 0px;
+	padding-bottom: 1px;
+	padding-left: 0px;
+	margin: 0px;
+}
+.linha_digitavelA {
+	padding: 2px;
+	font-size: 20px;
+	font-weight: normal;
+}
+.titulo {
+	padding: 2px;
+	font-size: 14px;
+	font-weight: normal;
+	text-align: right;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #000000;
+}
+

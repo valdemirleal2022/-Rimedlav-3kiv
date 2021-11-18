@@ -1,0 +1,41 @@
+
+
+.map{
+    height:200px;
+	width:300px;
+	margin:0 auto;
+	float:right;
+    border:2px solid #999 !important;
+    -webkit-box-shadow: 0 0 5px #999 !important;
+    -moz-box-shadow: 0 0 5px #999 !important;
+    box-shadow: 0 0 5px #999 !important; 
+}
+
+
+<!--/mapa geolocalizacao-->
+.content .mapa {
+	padding:5px; 
+	height:335px; 
+	width:750px;
+	margin:5px auto;
+	padding:10px;
+	background:#FFF;
+	border:1px solid #EEE;
+	box-shadow: 1px 1px 1px rgba(0,0,0,0.2);
+	margin-top:50px;
+	margin-bottom:20px;
+}
+
+.content .mapa h2 {
+	width:770px;
+	font:13px "Terminal Dosis", Arial, Helvetica, sans-serif; 
+	color:#666;
+	margin:5px 0 0 0;
+	padding:2px 5px 4px 4px;
+	margin-left:13px;
+	z-index:99;
+	text-align:center;
+}
+
+
+.

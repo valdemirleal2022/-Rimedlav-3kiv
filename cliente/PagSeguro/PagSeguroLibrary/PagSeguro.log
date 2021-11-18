@@ -1,0 +1,504 @@
+{2014/03/24 19:55:18} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => 'REF123',
+  'SenderEmail' => 'comprador@s2it.com.br',
+)) - begin 
+{2014/03/24 19:55:20} [Error] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => 'REF123',
+  'SenderEmail' => 'comprador@s2it.com.br',
+)) - error [HTTP 400] - BAD_REQUEST 0 [11029] - Item amount invalid pattern: 29. Must fit the patern: \d+.\d{2}  
+{2014/03/24 20:07:32} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => 'REF123',
+  'SenderEmail' => 'comprador@s2it.com.br',
+)) - begin 
+{2014/03/24 20:07:33} [Error] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => 'REF123',
+  'SenderEmail' => 'comprador@s2it.com.br',
+)) - error [HTTP 400] - BAD_REQUEST 0 [11029] - Item amount invalid pattern: 29. Must fit the patern: \d+.\d{2}  
+{2014/03/24 20:09:01} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => 'REF123',
+  'SenderEmail' => 'comprador@s2it.com.br',
+)) - begin 
+{2014/03/24 20:09:03} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => 'REF123',
+  'SenderEmail' => 'comprador@s2it.com.br',
+)) - begin 
+{2014/03/24 20:09:06} [Error] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => 'REF123',
+  'SenderEmail' => 'comprador@s2it.com.br',
+)) - error [HTTP 400] - BAD_REQUEST 0 [11029] - Item amount invalid pattern: 29. Must fit the patern: \d+.\d{2}  
+{2014/03/24 20:09:06} [Error] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => 'REF123',
+  'SenderEmail' => 'comprador@s2it.com.br',
+)) - error [HTTP 400] - BAD_REQUEST 0 [11029] - Item amount invalid pattern: 29. Must fit the patern: \d+.\d{2}  
+{2014/03/24 20:34:03} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => 'REF123',
+  'SenderEmail' => 'comprador@s2it.com.br',
+)) - begin 
+{2014/03/24 20:34:14} [Error] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => 'REF123',
+  'SenderEmail' => 'comprador@s2it.com.br',
+)) - error [HTTP 400] - BAD_REQUEST 0 [11029] - Item amount invalid pattern: 29. Must fit the patern: \d+.\d{2}  
+{2014/03/24 20:46:22} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => NULL,
+  'SenderEmail' => 'null',
+)) - begin 
+{2014/03/24 20:46:24} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => NULL,
+  'SenderEmail' => 'null',
+)) - end {1}EFD6D158CACA4AD444561F9F2E948D49 
+{2014/03/24 21:01:52} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => NULL,
+  'SenderEmail' => 'null',
+)) - begin 
+{2014/03/24 21:01:53} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => NULL,
+  'SenderEmail' => 'null',
+)) - end {1}1C0A35AF2A2A130CC4639FB5C0658FFF 
+{2014/03/24 21:02:09} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => NULL,
+  'SenderEmail' => 'null',
+)) - begin 
+{2014/03/24 21:02:10} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => NULL,
+  'SenderEmail' => 'null',
+)) - end {1}574757857C7C074554E35FB6F155B990 
+{2014/03/24 21:17:41} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => '15330cb25caf8d',
+  'SenderEmail' => NULL,
+)) - begin 
+{2014/03/24 21:17:43} [Error] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => '15330cb25caf8d',
+  'SenderEmail' => NULL,
+)) - error [HTTP 401] - UNAUTHORIZED  
+{2014/03/24 21:19:45} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => NULL,
+  'SenderEmail' => 'null',
+)) - begin 
+{2014/03/24 21:19:46} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => NULL,
+  'SenderEmail' => 'null',
+)) - end {1}749495498E8E596DD4D39F8F1C33F7C6 
+{2014/03/24 21:29:33} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => NULL,
+  'SenderEmail' => 'null',
+)) - begin 
+{2014/03/24 21:29:35} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => NULL,
+  'SenderEmail' => 'null',
+)) - end {1}70105CF6AEAE7DA66425CF9E11728780 
+{2014/03/24 21:41:10} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => NULL,
+  'SenderEmail' => 'null',
+)) - begin 
+{2014/03/24 21:41:11} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => NULL,
+  'SenderEmail' => 'null',
+)) - end {1}108F268D17174E8334E06FA628F7B9EF 
+{2014/03/24 21:51:53} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => NULL,
+  'SenderEmail' => NULL,
+)) - begin 
+{2014/03/24 21:51:54} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => NULL,
+  'SenderEmail' => NULL,
+)) - end {1}E073325B6D6DF26FF4A76F9C3886B5EC 
+{2014/03/24 21:59:56} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => 'I9635',
+  'SenderEmail' => 'comprador@uol.com.br',
+)) - begin 
+{2014/03/24 21:59:58} [Error] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => 'I9635',
+  'SenderEmail' => 'comprador@uol.com.br',
+)) - error [HTTP 400] - BAD_REQUEST 0 [11028] - Item amount is required. (e.g. "12.00") 
+{2014/03/24 22:00:13} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => 'I9635',
+  'SenderEmail' => 'comprador@uol.com.br',
+)) - begin 
+{2014/03/24 22:00:14} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => 'I9635',
+  'SenderEmail' => 'comprador@uol.com.br',
+)) - begin 
+{2014/03/24 22:00:14} [Error] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => 'I9635',
+  'SenderEmail' => 'comprador@uol.com.br',
+)) - error [HTTP 400] - BAD_REQUEST 0 [11028] - Item amount is required. (e.g. "12.00") 
+{2014/03/24 22:00:16} [Error] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => 'I9635',
+  'SenderEmail' => 'comprador@uol.com.br',
+)) - error [HTTP 400] - BAD_REQUEST 0 [11028] - Item amount is required. (e.g. "12.00") 
+{2014/03/24 22:00:16} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => 'I9635',
+  'SenderEmail' => 'comprador@uol.com.br',
+)) - begin 
+{2014/03/24 22:00:17} [Error] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => 'I9635',
+  'SenderEmail' => 'comprador@uol.com.br',
+)) - error [HTTP 400] - BAD_REQUEST 0 [11028] - Item amount is required. (e.g. "12.00") 
+{2014/03/24 22:01:14} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => 'I9635',
+  'SenderEmail' => 'comprador@uol.com.br',
+)) - begin 
+{2014/03/24 22:01:16} [Error] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => 'I9635',
+  'SenderEmail' => 'comprador@uol.com.br',
+)) - error [HTTP 401] - UNAUTHORIZED  
+{2014/03/24 22:03:23} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => NULL,
+  'SenderEmail' => 'null',
+)) - begin 
+{2014/03/24 22:03:25} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => NULL,
+  'SenderEmail' => 'null',
+)) - end {1}6930D4CE2828843BB4A29F9855B6E733 
+{2014/03/24 22:04:26} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => NULL,
+  'SenderEmail' => 'comprador@uol.com.br',
+)) - begin 
+{2014/03/24 22:04:34} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => NULL,
+  'SenderEmail' => 'comprador@uol.com.br',
+)) - end {1}79ED896CC1C1DFD334438FBD65146733 
+{2014/03/24 22:07:03} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => NULL,
+  'SenderEmail' => 'comprador@uol.com.br',
+)) - begin 
+{2014/03/24 22:07:05} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => NULL,
+  'SenderEmail' => 'comprador@uol.com.br',
+)) - end {1}C68769D45454D78334695F8109F98B0B 
+{2014/03/24 22:08:08} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => NULL,
+  'SenderEmail' => 'comprador@uol.com.br',
+)) - begin 
+{2014/03/24 22:08:09} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => NULL,
+  'SenderEmail' => 'comprador@uol.com.br',
+)) - end {1}BFB442DFCBCB46E334086FA14E74CDA1 
+{2014/03/24 22:12:15} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => NULL,
+  'SenderEmail' => 'comprador@uol.com.br',
+)) - begin 
+{2014/03/24 22:12:17} [Error] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => NULL,
+  'SenderEmail' => 'comprador@uol.com.br',
+)) - error [HTTP 400] - BAD_REQUEST 0 [11029] - Item amount invalid pattern: 19. Must fit the patern: \d+.\d{2}  
+{2014/03/24 22:12:53} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => NULL,
+  'SenderEmail' => 'comprador@uol.com.br',
+)) - begin 
+{2014/03/24 22:12:55} [Error] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => NULL,
+  'SenderEmail' => 'comprador@uol.com.br',
+)) - error [HTTP 400] - BAD_REQUEST 0 [11026] - Item quantity is required. 
+{2014/03/24 22:12:58} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => NULL,
+  'SenderEmail' => 'comprador@uol.com.br',
+)) - begin 
+{2014/03/24 22:13:00} [Error] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => NULL,
+  'SenderEmail' => 'comprador@uol.com.br',
+)) - error [HTTP 400] - BAD_REQUEST 0 [11026] - Item quantity is required. 
+{2014/03/24 22:13:02} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => NULL,
+  'SenderEmail' => 'comprador@uol.com.br',
+)) - begin 
+{2014/03/24 22:13:03} [Error] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => NULL,
+  'SenderEmail' => 'comprador@uol.com.br',
+)) - error [HTTP 400] - BAD_REQUEST 0 [11026] - Item quantity is required. 
+{2014/03/24 22:13:05} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => NULL,
+  'SenderEmail' => 'comprador@uol.com.br',
+)) - begin 
+{2014/03/24 22:13:07} [Error] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => NULL,
+  'SenderEmail' => 'comprador@uol.com.br',
+)) - error [HTTP 400] - BAD_REQUEST 0 [11026] - Item quantity is required. 
+{2014/03/24 22:13:42} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => NULL,
+  'SenderEmail' => 'comprador@uol.com.br',
+)) - begin 
+{2014/03/24 22:13:43} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => NULL,
+  'SenderEmail' => 'comprador@uol.com.br',
+)) - end {1}DA97DCCF9C9CD85774947FB468FB6376 
+{2014/03/24 22:14:26} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => NULL,
+  'SenderEmail' => 'comprador@uol.com.br',
+)) - begin 
+{2014/03/24 22:14:27} [Error] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => NULL,
+  'SenderEmail' => 'comprador@uol.com.br',
+)) - error [HTTP 400] - BAD_REQUEST 0 [11026] - Item quantity is required. 
+{2014/03/24 22:15:48} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => NULL,
+  'SenderEmail' => 'comprador@uol.com.br',
+)) - begin 
+{2014/03/24 22:15:49} [Error] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => NULL,
+  'SenderEmail' => 'comprador@uol.com.br',
+)) - error [HTTP 400] - BAD_REQUEST 0 [11026] - Item quantity is required. 
+{2014/03/24 22:15:55} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => NULL,
+  'SenderEmail' => 'comprador@uol.com.br',
+)) - begin 
+{2014/03/24 22:15:56} [Error] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => NULL,
+  'SenderEmail' => 'comprador@uol.com.br',
+)) - error [HTTP 400] - BAD_REQUEST 0 [11026] - Item quantity is required. 
+{2014/03/24 22:16:30} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => NULL,
+  'SenderEmail' => 'comprador@uol.com.br',
+)) - begin 
+{2014/03/24 22:16:32} [Error] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => NULL,
+  'SenderEmail' => 'comprador@uol.com.br',
+)) - error [HTTP 400] - BAD_REQUEST 0 [11026] - Item quantity is required. 
+{2014/03/24 22:16:35} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => NULL,
+  'SenderEmail' => 'comprador@uol.com.br',
+)) - begin 
+{2014/03/24 22:16:37} [Error] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => NULL,
+  'SenderEmail' => 'comprador@uol.com.br',
+)) - error [HTTP 400] - BAD_REQUEST 0 [11026] - Item quantity is required. 
+{2014/03/24 22:16:55} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => NULL,
+  'SenderEmail' => 'comprador@uol.com.br',
+)) - begin 
+{2014/03/24 22:16:57} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => NULL,
+  'SenderEmail' => 'comprador@uol.com.br',
+)) - end {1}CD36B6765555062664456F84E36F351A 
+{2014/03/24 22:17:00} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => NULL,
+  'SenderEmail' => 'comprador@uol.com.br',
+)) - begin 
+{2014/03/24 22:17:11} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => NULL,
+  'SenderEmail' => 'comprador@uol.com.br',
+)) - end {1}051C76ABC9C9663334AC6F9DEE367B94 
+{2014/03/24 22:18:26} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => NULL,
+  'SenderEmail' => NULL,
+)) - begin 
+{2014/03/24 22:18:28} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => NULL,
+  'SenderEmail' => NULL,
+)) - end {1}30E549788C8C7FE22426AF976024770D 
+{2014/03/24 22:28:38} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => NULL,
+  'SenderEmail' => NULL,
+)) - begin 
+{2014/03/24 22:28:40} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => NULL,
+  'SenderEmail' => NULL,
+)) - end {1}88BDDCFB3B3BE11554605FBD8D76A80B 
+{2014/03/24 22:28:47} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => NULL,
+  'SenderEmail' => NULL,
+)) - begin 
+{2014/03/24 22:28:48} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => NULL,
+  'SenderEmail' => NULL,
+)) - end {1}A96ED329ADADBC0BB41E1FA6F3E0BC53 
+{2014/03/24 22:29:37} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => NULL,
+  'SenderEmail' => NULL,
+)) - begin 
+{2014/03/24 22:29:45} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => NULL,
+  'SenderEmail' => NULL,
+)) - end {1}85DD97EFF4F4DBB664342F963E17AFCD 
+{2014/03/24 22:30:14} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => NULL,
+  'SenderEmail' => NULL,
+)) - begin 
+{2014/03/24 22:30:16} [Error] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => NULL,
+  'SenderEmail' => NULL,
+)) - error [HTTP 400] - BAD_REQUEST 0 [11026] - Item quantity is required. 
+{2014/03/24 22:30:46} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => NULL,
+  'SenderEmail' => NULL,
+)) - begin 
+{2014/03/24 22:30:47} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => NULL,
+  'SenderEmail' => NULL,
+)) - end {1}781ACE52F6F6170DD4418F9094A0BC8F 
+{2014/03/24 22:33:54} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => NULL,
+  'SenderEmail' => 'wellington@toyamadedetizadora.com.br',
+)) - begin 
+{2014/03/24 22:33:56} [Error] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => NULL,
+  'SenderEmail' => 'wellington@toyamadedetizadora.com.br',
+)) - error [HTTP 400] - BAD_REQUEST 0 [11026] - Item quantity is required. 
+{2014/03/24 22:34:17} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => NULL,
+  'SenderEmail' => 'wellington@toyamadedetizadora.com.br',
+)) - begin 
+{2014/03/24 22:34:18} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => NULL,
+  'SenderEmail' => 'wellington@toyamadedetizadora.com.br',
+)) - end {1}B0DB7AC137373F8444F3AF8B2FE71B66 
+{2014/03/24 22:35:45} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => NULL,
+  'SenderEmail' => 'wellington@toyamadedetizadora.com.br',
+)) - begin 
+{2014/03/24 22:35:47} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => NULL,
+  'SenderEmail' => 'wellington@toyamadedetizadora.com.br',
+)) - end {1}0C27E28B81813B4444A8CF8CA92EDCDF 
+{2014/03/24 22:37:00} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => NULL,
+  'SenderEmail' => 'wellington@toyamadedetizadora.com.br',
+)) - begin 
+{2014/03/24 22:37:02} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => NULL,
+  'SenderEmail' => 'wellington@toyamadedetizadora.com.br',
+)) - end {1}2FFAA5761B1BE74554852F91A8170B56 
+{2014/03/24 22:38:37} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => NULL,
+  'SenderEmail' => 'wellington@toyamadedetizadora.com.br',
+)) - begin 
+{2014/03/24 22:38:38} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => NULL,
+  'SenderEmail' => 'wellington@toyamadedetizadora.com.br',
+)) - end {1}A7F7E048B6B6352004F10F876760A60E 
+{2014/03/24 22:39:36} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => NULL,
+  'SenderEmail' => 'wellington@toyamadedetizadora.com.br',
+)) - begin 
+{2014/03/24 22:39:46} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => NULL,
+  'SenderEmail' => 'wellington@toyamadedetizadora.com.br',
+)) - end {1}B38EEAB10F0F631554743FB01F08CABF 
+{2014/03/24 22:43:25} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => 'I9635',
+  'SenderEmail' => 'wellington@toyamadedetizadora.com.br',
+)) - begin 
+{2014/03/24 22:43:27} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => 'I9635',
+  'SenderEmail' => 'wellington@toyamadedetizadora.com.br',
+)) - end {1}10DF22DF51512F8554BCCFAEFDBCFAE6 
+{2014/03/24 22:44:31} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => 'I9635',
+  'SenderEmail' => 'wellington@toyamadedetizadora.com.br',
+)) - begin 
+{2014/03/24 22:44:32} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => 'I9635',
+  'SenderEmail' => 'wellington@toyamadedetizadora.com.br',
+)) - end {1}0FCD09BC5C5C559DD4FB4FA92493E7A9 
+{2014/03/24 22:45:14} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => 'I9635',
+  'SenderEmail' => 'wellington@toyamadedetizadora.com.br',
+)) - begin 
+{2014/03/24 22:45:15} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => 'I9635',
+  'SenderEmail' => 'wellington@toyamadedetizadora.com.br',
+)) - end {1}B70D2ED67777CDF66438BF9A9460A200 
+{2014/03/24 22:46:02} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => 'I9635',
+  'SenderEmail' => 'WELLINGTON@WPCSISTEMA.COM.BR',
+)) - begin 
+{2014/03/24 22:46:04} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => 'I9635',
+  'SenderEmail' => 'WELLINGTON@WPCSISTEMA.COM.BR',
+)) - end {1}74C55836343419C99499EFB4878EA208 
+{2014/03/24 23:11:15} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => 'I9635',
+  'SenderEmail' => 'WELLINGTON@WPCSISTEMA.COM.BR',
+)) - begin 
+{2014/03/24 23:11:16} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => 'I9635',
+  'SenderEmail' => 'WELLINGTON@WPCSISTEMA.COM.BR',
+)) - end {1}8AB6CE4380806A1EE4CB8F87E5DCFF50 
+{2014/03/24 23:12:58} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => 'I9635',
+  'SenderEmail' => 'WELLINGTON@WPCSISTEMA.COM.BR',
+)) - begin 
+{2014/03/24 23:12:59} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => 'I9635',
+  'SenderEmail' => 'WELLINGTON@WPCSISTEMA.COM.BR',
+)) - end {1}1D9D655BAFAFA57224120F8C7722A006 
+{2014/03/25 12:45:49} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => 'I9635',
+  'SenderEmail' => 'WELLINGTON@WPCSISTEMA.COM.BR',
+)) - begin 
+{2014/03/25 12:45:50} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => 'I9635',
+  'SenderEmail' => 'WELLINGTON@WPCSISTEMA.COM.BR',
+)) - end {1}50F66926C0C0A96994427F8154CA71CD 
+{2014/03/26 10:48:18} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => 'I9635',
+  'SenderEmail' => 'WELLINGTON@WPCSISTEMA.COM.BR',
+)) - begin 
+{2014/03/26 10:48:20} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => 'I9635',
+  'SenderEmail' => 'WELLINGTON@WPCSISTEMA.COM.BR',
+)) - end {1}1892D88D7474706994A78F97854E0E86 
+{2014/04/09 16:13:44} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => 'I9635',
+  'SenderEmail' => 'WELLINGTON@WPCSISTEMA.COM.BR',
+)) - begin 
+{2014/04/09 16:13:46} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => 'I9635',
+  'SenderEmail' => 'WELLINGTON@WPCSISTEMA.COM.BR',
+)) - end {1}13CAB2D07B7BEEDDD4F0CF89CE6A40A2 
+{2014/04/09 16:20:38} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => 'I9635',
+  'SenderEmail' => 'WELLINGTON@WPCSISTEMA.COM.BR',
+)) - begin 
+{2014/04/09 16:20:40} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => 'I9635',
+  'SenderEmail' => 'WELLINGTON@WPCSISTEMA.COM.BR',
+)) - end {1}6667440C0E0E091EE4C5AFB731E9FFFB 
+{2014/04/14 23:12:26} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => 'I9635',
+  'SenderEmail' => 'suporte@wpcsistema.com.br',
+)) - begin 
+{2014/04/14 23:12:28} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => 'I9635',
+  'SenderEmail' => 'suporte@wpcsistema.com.br',
+)) - end {1}2F57F137B5B594C444CC0FBBC94FC364 
+{2014/04/15 09:08:32} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => 'I9635',
+  'SenderEmail' => 'sarasantos@hotmail.com',
+)) - begin 
+{2014/04/15 09:08:33} [Error] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => 'I9635',
+  'SenderEmail' => 'sarasantos@hotmail.com',
+)) - error [HTTP 400] - BAD_REQUEST 0 [11012] - senderName invalid value: sara 
+{2014/04/16 07:47:41} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => 'I9635',
+  'SenderEmail' => 'silviaraquel_isa@hotmail.com',
+)) - begin 
+{2014/04/16 07:47:43} [Error] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => 'I9635',
+  'SenderEmail' => 'silviaraquel_isa@hotmail.com',
+)) - error [HTTP 400] - BAD_REQUEST 0 [11012] - senderName invalid value: silvia 
+{2014/04/29 13:05:04} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => 'I9635',
+  'SenderEmail' => 'WELLINGTON@WPCSISTEMA.COM.BR',
+)) - begin 
+{2014/04/29 13:05:07} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => 'I9635',
+  'SenderEmail' => 'WELLINGTON@WPCSISTEMA.COM.BR',
+)) - end {1}8741EC5A9C9C2A5114ED2F96D9093348 
+{2014/04/29 13:36:53} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => 'I9635',
+  'SenderEmail' => 'WELLINGTON@WPCSISTEMA.COM.BR',
+)) - begin 
+{2014/04/29 13:36:54} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => 'I9635',
+  'SenderEmail' => 'WELLINGTON@WPCSISTEMA.COM.BR',
+)) - end {1}A5D083C1E9E9261774665FB4AD1E67EC 
+{2014/04/29 13:38:18} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => 'I9635',
+  'SenderEmail' => 'WELLINGTON@WPCSISTEMA.COM.BR',
+)) - begin 
+{2014/04/29 13:38:20} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest: array (
+  'Reference' => 'I9635',
+  'SenderEmail' => 'WELLINGTON@WPCSISTEMA.COM.BR',
+)) - end {1}F3942D84A8A88E6224865F877F8E5484 

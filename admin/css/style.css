@@ -1,0 +1,552 @@
+/*CSS cliente - 06/06/2017 - 20:07*/
+
+
+*{margin:0; padding:0;}
+body {
+	background:url(../../admin2/images/bg-corpo.png) #e7ebf2;
+	
+}
+
+.btn {
+	background:#FFA400; 
+	width:100px;
+	height:35px; 
+	font:15px Verdana, Geneva, sans-serif; color:#FFF; border:none; border-radius:3px;
+}
+.btn:hover {
+	cursor:pointer;
+	opacity:0.7;
+	}
+	
+.btn2 {
+	background:#FFA400; 
+	width:auto;
+	text-align:center;
+	margin:5px;
+	padding:5px;
+	height:35px; 
+	font:15px Verdana, Geneva, sans-serif; color:#FFF; border:none; border-radius:3px;
+}
+.btn2:hover {
+	cursor:pointer;
+	opacity:0.7;
+	}
+	
+.box {
+	width:1000px; 
+	margin:0 auto;
+}
+
+
+.header {
+	width:1000px; 
+	height:150px; 
+	margin:0 auto;
+	background:#FFF;
+	padding:5px;
+	margin-bottom:15px;
+	box-shadow: 0px 5px 5px rgba(0,0,0,0.2);
+}
+
+ 
+.logo {
+	width:248px;
+	height:100px;
+	margin:5px 0 15px 55px;
+	float:left;
+}
+.slogan {
+	float:right;
+	font-size:20px; 
+	color:#162A3A;
+	margin:48px 45px 15px 0;
+}
+
+.logo {
+	width:238px; 
+	height:75px;
+	margin:8px 0 15px 55px; 
+	float:left;
+}
+.slogan {
+	float:right; 
+	font:20px "Terminal Dosis", Arial, Verdana; color:#162A3A; margin:48px 45px 15px 0;
+}
+
+.login{
+	height: 300px;
+	width: 500px;
+	margin:0 auto;
+	border-bottom:2px solid #CCC;
+	background:#FFF;
+	padding:20px;
+	box-shadow: 5px 0px 2px 2px rgba(0,0,0,0.2);
+}
+
+.login h1 {
+	font:17px "Terminal Dosis", Arial, Verdana; 
+	color: #033;
+	margin:5px;
+
+	padding:5px
+}
+
+.login p{
+	font:13px "Terminal Dosis", Arial, Verdana; 
+	color: #033;
+	margin:5px;
+	padding:5px
+}
+
+.login form{
+	float:left;
+	width:300px;
+	padding:5px;
+}
+.login form label{
+	font:13px "Terminal Dosis", Arial, Verdana; 
+	display:block;
+	margin-bottom:10px;
+	color:#000;
+}
+.login form label span{
+	display:block; 
+	font:18px "Terminal Dosis", Arial, Verdana; 
+	color:#000;
+	margin-bottom:2px;
+}
+.login form label input{
+	font:14px "Trebuchet MS", Arial, Helvetica, sans-serif;
+	padding:6px;
+	border:1px solid #DDD; 
+	background:#FFF; 
+	width:450px;
+}
+.login form label select{
+	font:14px "Trebuchet MS", Arial, Helvetica, sans-serif;
+	padding:6px;
+	border:1px solid #DDD; 
+	background:#FFF; 
+}
+
+.login-cliente{
+	height: 420px;
+	width: 900px;
+	margin:0 auto;
+	box-shadow: 5px 0px 2px 2px rgba(0,0,0,0.2);
+	border-bottom:2px solid #CCC;
+	background:#FFF;
+	padding:10px;
+}
+
+.login-cliente h1 {
+	font:17px "Terminal Dosis", Arial, Verdana; 
+	color: #033;
+	margin:2px;
+	padding:2px
+}
+
+.login-cliente p{
+	font:13px "Terminal Dosis", Arial, Verdana; 
+	color: #033;
+	margin:2px;
+	padding:2px
+}
+
+.login-cliente form{
+	float:left;
+	width:420px;
+	height:240px;
+	padding:2px;
+	margin:12px;
+	display:inline;
+	box-shadow: 5px 0px 2px 2px rgba(0,0,0,0.2);
+	border-bottom:2px solid #CCC;
+	background:#FFF;
+}
+
+.login-cliente legend {
+	font:16px "Terminal Dosis", Arial, Verdana; 
+	color: #033;
+	margin:5px;
+	padding:5px
+}
+
+.login-cliente form label{
+	display:block;
+	margin:2px;
+	padding:2px;
+	color:#000;
+	font:13px "Terminal Dosis", Arial, Verdana; 
+}
+
+.login-cliente form label span{
+	display:block; 
+	font:18px "Terminal Dosis", Arial, Verdana; 
+	color:#000;
+	margin:2px;
+	padding:2px
+}
+
+.login-cliente form label input{
+	font:14px "Trebuchet MS", Arial, Helvetica, sans-serif;
+	padding:6px;
+	border:1px solid #DDD; 
+	background:#FFF; 
+	width:350px;
+	margin:2px;
+	padding:2px
+}
+
+.msgError {
+	width:400px; 
+	height:16px; 
+	font:13px Verdana, Geneva, sans-serif;
+	color:#333;
+	background:#FFFFD5;
+	border:1px solid #FF0;
+	border-radius:2px;
+	text-align:center;
+	padding:7px 0; 
+	z-index:99; 
+	position:relative;
+	top:10px;
+	left:5px;
+}
+.msgAcerto {
+	width:360px;
+	height:18px; 
+	font:16px Verdana, Geneva, sans-serif; color:#666; background:#DFB; border:1px solid #3F0; border-radius:3px;}
+.msgAcerto {text-align:center; padding:10px 0; z-index:99; position:relative; top:10px; left:35px;}
+
+.msgAlerta {
+	width:360px; 
+	height:16px; 
+	font:13px Verdana, Geneva, sans-serif;
+	color:#333;
+	background:#FFFFD5;
+	border:1px solid #FF0;
+	border-radius:2px;
+	text-align:center;
+	padding:7px 0; 
+	z-index:99; 
+	position:relative;
+	top:2px;
+	left:5px;
+}
+
+.debug {background:#FFF; color:#000; position:absolute; top:0; left:0; padding:10px;}
+
+.formulario{
+	width:910px; 
+	margin:5px auto;
+	padding:10px;
+	border:1px solid #DDD;
+	font-family:"Terminal Dosis", Arial, Verdana;
+}
+.formulario img{
+	float:left;
+	margin:1px;
+}
+
+.formulario h1 {
+	font: 20px "Trebuchet MS", Arial, Helvetica, sans-serif; 
+	color:#162A3A; 
+	margin:20px 2px 0 0;
+	text-align:center;
+}
+.formulario h2 {
+	font:17px "Trebuchet MS", Arial, Helvetica, sans-serif; 
+	color:#162A3A;
+	margin:10px 0 5px 10px;
+	text-align:left;
+}
+.formulario h3 {
+	font: 14px "Trebuchet MS", Arial, Helvetica, sans-serif; 
+	color:#162A3A;
+	margin:5px 0 5px 5px;
+	text-align:left;
+}
+.formulario p {
+	font:11px "Trebuchet MS", Arial, Helvetica, sans-serif; 
+	color:#162A3A; 
+	text-align:left;
+	margin:5px 0 5px 5px;
+	padding:0;
+}
+
+.formulario .descricao {
+	height:200px;
+
+}
+
+ 
+.page {
+    width: 950px;
+    min-height: 29.7cm;
+    padding: 5px;
+    margin:15px auto;
+    border:1px solid #DDD;
+    border-radius: 5px;
+    background: white;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+@page {
+    size: A4;
+    margin: 0;
+}
+@media print {
+    .page {
+        min-height: initial;
+        page-break-after: always;
+    }
+}
+
+.ordem{
+	border:1px solid #DDD;
+	display:block;
+	width: 930px;
+	padding:2px;
+	margin:0 auto;
+}
+.ordem img{
+/*	float:left;*/
+	margin:5px;
+}
+.ordem h1.titulo {
+	font:bold 22px "Trebuchet MS", Arial, Helvetica, sans-serif;  
+	color:#162A3A; 
+	margin:8px 0px 8px 10px;
+	text-align:center;
+}
+
+.ordem h1 {
+	font:bold 15px "Trebuchet MS", Arial, Helvetica, sans-serif;  
+	color:#162A3A; 
+	margin:8px 0px 8px 10px;
+	text-align:center;
+}
+.ordem h2 {
+	font:bold 14px "Trebuchet MS", Arial, Helvetica, sans-serif; 
+	color:#162A3A;
+	margin:5px 0px 5px 10px;
+	text-align:left;
+}
+.ordem h3 {
+	font:bold 13px "Trebuchet MS", Arial, Helvetica, sans-serif; 
+	color:#162A3A;
+	margin:5px 0px 5px 8px;
+	text-align:left;
+}
+.ordem p {
+	font:12px "Trebuchet MS", Arial, Helvetica, sans-serif; 
+	color:#162A3A; 
+	text-align:left;
+	margin:5px 0 5px 8px;
+	padding:0;
+}
+
+.ordem small {
+	font:10px "Trebuchet MS", Arial, Helvetica, sans-serif; 
+	color:#162A3A; 
+	text-align:left;
+	margin:0 0 0 7px;
+	padding:0;
+}
+.ordem .descricao {
+	height:90px;
+}
+.ordem .produto {
+	height:130px;
+}
+.ordem .observacao {
+	height:50px;
+}
+
+.ordem .linha {
+	width: 900px;  
+	display:block;
+	height:18px;
+/*	background:#DDD;
+	border:1px solid #DDD;*/
+	margin:2px;
+	padding:2px;
+}
+
+.renovacao{
+	width:910px; 
+	margin:1px auto;
+	padding:8px;
+	border:1px solid #DDD;
+	font:16px "Trebuchet MS", Arial, Helvetica, sans-serif; 
+}
+.renovacao img{
+	text-align:center;
+	margin:10px;
+}
+.renovacao h1 {
+	font: 23px "Trebuchet MS", Arial, Helvetica, sans-serif; 
+	color:#162A3A; 
+	margin:20px 2px 0 0;
+	text-align:center;
+}
+.renovacao h2 {
+	font:bold 15px "Trebuchet MS", Arial, Helvetica, sans-serif; 
+	color:#162A3A;
+	margin:5px 0 5px 5px;
+}
+.renovacao h3 {
+	font: 14px "Trebuchet MS", Arial, Helvetica, sans-serif; 
+	color:#162A3A;
+	margin:5px 0 5px 5px;
+}
+.renovacao p {
+	font: 11px "Trebuchet MS", Arial, Helvetica, sans-serif; 
+	color:#162A3A;
+	margin:5px 0 5px 5px;
+}
+ 
+ 
+
+
+/*TABELAS PÁGINAS - Controla a formatação de tabelas nas páginas*/
+.tabelaspg {
+	border:1px solid #DDD; 
+	border-bottom:0;
+	border-right:0;
+	font:55px "Trebuchet MS", Arial, Helvetica, sans-serif; 
+	margin:0px auto;
+	width:910px;
+}
+.tabelaspg tr td{
+	padding:5px; 
+	border:1px solid #DDD;
+	border-top:0;
+	border-left:0;
+}
+.tabelaspg tr:hover td{
+	background:#FFF3E8;
+}
+.tabelaspg .set td{background:#F4F4F4; font-weight:bold;}
+.tabelaspg tr .nb{border-right:0;}
+
+
+
+ 
+ 
+.certificado{
+	width:580px; 
+	margin:40px 0px 0px 450px;
+	padding:5px;
+	font-family:"Terminal Dosis", Arial, Verdana;
+}
+.certificado img{
+	float:left;
+	margin:10px;
+}
+.certificado h1 {
+	font: 28px "Trebuchet MS", Arial, Helvetica, sans-serif; 
+	color:#162A3A; 
+	margin:8px 0 8px 5px;
+	text-align:center;
+}
+.certificado h2 {
+	font:24px "Trebuchet MS", Arial, Helvetica, sans-serif; 
+	color:#162A3A;
+	margin:8px 0 8px 5px;
+}
+.certificado h3 {
+	font: 16px "Trebuchet MS", Arial, Helvetica, sans-serif; 
+	color:#162A3A;
+	margin:8px 0 8px 5px;
+}
+.certificado p {
+	font:14px "Trebuchet MS", Arial, Helvetica, sans-serif; 
+	color:#162A3A; 
+	margin:5px 0 5px 5px;
+	padding:0;
+}
+.certificado .descricao {
+	height:180px;
+
+}
+
+
+ .carta{
+	width:70%; 
+	margin:180px 50px 50px 220px;
+	padding:1px;
+	text-align:left;
+
+}
+
+ .carta img{
+	width:100%;
+	margin:10px;
+}
+
+/*TABELAS PÁGINAS - Controla a formatação de tabelas nas páginas*/
+.tabelaspg2 {
+	border-bottom:0;
+	border-right:0;
+	font:10px "Terminal Dosis", Arial, Verdana;
+	margin:2px 0 2px 5px;
+	width:90%;
+	padding:1px; 
+}
+.tabelaspg2 tr td{
+	padding:1px; 
+	border-top:0;
+	border-left:0;
+}
+.tabelaspg2 tr:hover td{
+	background:#FFF3E8;
+}
+.tabelaspg2 .set td{background:#F4F4F4; font-weight:bold;}
+.tabelaspg2 tr .nb{border-right:0;}
+
+
+.aviso{
+	width:700px; 
+	margin:5px auto;
+	padding:8px;
+	font-family:"Terminal Dosis", Arial, Verdana;
+}
+.aviso h1 {
+	font: 18px "Trebuchet MS", Arial, Helvetica, sans-serif; 
+	color:#162A3A; 
+	margin:8px 0 8px 5px;
+	text-align:center;
+}
+.aviso h2 {
+	font:16px "Trebuchet MS", Arial, Helvetica, sans-serif; 
+	color:#162A3A;
+	margin:8px 0 8px 5px;
+}
+
+.tabelaspg3 {
+	border:1px solid #DDD; 
+	border-bottom:0;
+	border-right:0;
+	font:17px "Trebuchet MS", Arial, Helvetica, sans-serif; 
+	margin:2px 0 2px 2px;
+	width:700px;
+}
+.tabelaspg3 tr td{
+	padding:1px; 
+	border:1px solid #DDD;
+	border-top:0;
+	border-left:0;
+}
+.tabelaspg3 tr:hover td{
+	background:#FFF3E8;
+}
+.tabelaspg3 .set td{background:#F4F4F4; font-weight:bold;}
+.tabelaspg3 tr .nb{border-right:0;}
+
+
+
+
+
+
